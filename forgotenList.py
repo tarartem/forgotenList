@@ -1,3 +1,7 @@
+# author @tarartem
+# version 1.0
+# date 30 sep 2016
+
 import json
 import smtplib
 from email.mime.multipart import MIMEMultipart
